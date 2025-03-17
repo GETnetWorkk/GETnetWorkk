@@ -1,5 +1,6 @@
-## Hi there my name is Jung 👋 
+## Hi my name is Jung 👋 
 
+우송대학교 재학중입니다.
 <!--
 **GETnetWorkk/GETnetWorkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
